@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubh61
 - 👀 I’m interested in software and programming
-- 🌱 I’m currently learning Kotlin Android development on android studio and require assistance in it 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React on VS Code and require assistance in it 
 - 📫 How to reach me:
 Instagram: @shubh.biswas29
 Email: shubhbiswas61@gmail.com
